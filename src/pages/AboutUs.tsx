@@ -113,7 +113,7 @@ const AboutUs: React.FC = () => {
             <div className="relative">
               <div className="relative aspect-square overflow-hidden rounded-2xl border">
                 <img 
-                  src="/src/assets/5_20250909_000425_0002.png" 
+                  src="/assets/5_20250909_000425_0002.png" 
                   alt="Umang Pandey - Founder & CEO"
                   className="h-full w-full object-cover"
                 />

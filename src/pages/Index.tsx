@@ -61,18 +61,18 @@ const Index = () => {
 
   // Gallery images
   const galleryImages: GalleryImage[] = [
-    { src: "/src/assets/case1.png", alt: "Case Study 1", category: "mindmaps" },
-    { src: "/src/assets/case2.png", alt: "Case Study 2", category: "mindmaps" },
-    { src: "/src/assets/case2.1.png", alt: "Case Study 2.1", category: "case-studies" },
-    { src: "/src/assets/case2.2.png", alt: "Case Study 2.2", category: "case-studies" },
-    { src: "/src/assets/case2.3.png", alt: "Case Study 2.3", category: "case-studies" },
-    { src: "/src/assets/case2.4.png", alt: "Case Study 2.4", category: "case-studies" },
-    { src: "/src/assets/screen.png", alt: "Dashboard View", category: "dashboards" },
-    { src: "/src/assets/skyline-mindmap.png", alt: "Skyline Mindmap", category: "mindmaps" },
-    { src: "/src/assets/skyline-results-1.png", alt: "Skyline Results 1", category: "results" },
-    { src: "/src/assets/skyline-results-2.png", alt: "Skyline Results 2", category: "results" },
-    { src: "/src/assets/urbanvein-mindmap.png", alt: "UrbanVein Mindmap", category: "mindmaps" },
-    { src: "/src/assets/urbanvein-results-1.png", alt: "UrbanVein Results 1", category: "results" },
+    { src: "/assets/case1.png", alt: "Case Study 1", category: "mindmaps" },
+    { src: "/assets/case2.png", alt: "Case Study 2", category: "mindmaps" },
+    { src: "/assets/case2.1.png", alt: "Case Study 2.1", category: "case-studies" },
+    { src: "/assets/case2.2.png", alt: "Case Study 2.2", category: "case-studies" },
+    { src: "/assets/case2.3.png", alt: "Case Study 2.3", category: "case-studies" },
+    { src: "/assets/case2.4.png", alt: "Case Study 2.4", category: "case-studies" },
+    { src: "/assets/screen.png", alt: "Dashboard View", category: "dashboards" },
+    { src: "/assets/skyline-mindmap.png", alt: "Skyline Mindmap", category: "mindmaps" },
+    { src: "/assets/skyline-results-1.png", alt: "Skyline Results 1", category: "results" },
+    { src: "/assets/skyline-results-2.png", alt: "Skyline Results 2", category: "results" },
+    { src: "/assets/urbanvein-mindmap.png", alt: "UrbanVein Mindmap", category: "mindmaps" },
+    { src: "/assets/urbanvein-results-1.png", alt: "UrbanVein Results 1", category: "results" },
   ];
 
   // Get unique categories
